@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: #005695;
+    margin: 5%;
+}
+
+#page-content {
+    color: white;
+}
+
+.nav-link {
+    color: #0063a5
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+                background-color: #0063a5;
+            }
+
+.lead {
+    font-size: 1.33rem;
+    font-weight: 340;
+    color: #747c84
+}
+
+#annualized-ebitda .main-svg {border-radius: .5rem}
+
+#page-content > div > div:nth-child(1) > div > div > div > div {
+    border-radius: .5rem
+}
+
+#page-content > div > div:nth-child(1) > div > div > div > div > div {
+    border-radius: .5rem
+}
+
+.DateInput_input {
+    border-radius: .5rem
+}
